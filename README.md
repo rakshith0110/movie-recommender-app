@@ -1,1 +1,1 @@
-# movie-recommender-app
+# movie-recommender
